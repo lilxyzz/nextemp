@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Projects and Articles image background black*/
+img.h-auto.w-full {background: black !important;}
+img.w-full.max-h-80.object-cover {background: black !important;}
+
+/* Profile image shadow*/
+img.h-auto.w-100 { filter: drop-shadow(0 0 0.25rem black);}
+
+/* max width before main*/
+div#__next { max-width: 1900px; margin-right: auto; margin-left: auto;}
+
+/* Homepage min Height */
+.min-h-screen {min-height: 90vh;}
+
+/* Contact form outline */
+textarea:focus, input:focus {outline: none;}
+
+/* Projects and Articles image border black*/
+img.h-auto.w-full {border: 2px solid black; border-radius: 10px;}
