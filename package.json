@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "eslint": "^9.9.1",
-    "eslint-config-next": "14.2.33",
+    "eslint-config-next": "14.2.35",
     "framer-motion": "^11.3.31",
     "next": "14.2.35",
     "next-sitemap": "^4.2.3",
