@@ -11,7 +11,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "eslint": "^9.9.1",
+    "eslint": "^10.0.0",
     "eslint-config-next": "14.2.35",
     "framer-motion": "^11.3.31",
     "next": "14.2.35",
